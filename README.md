@@ -11,14 +11,14 @@
 
 Add support for sending NServiceBus logging message through [Serilog](https://serilog.net/).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Serilog) | [NuGet: NServiceBus.Serilog](https://nuget.org/packages/NServiceBus.Serilog/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Serilog) | [NuGet](https://nuget.org/packages/NServiceBus.Serilog/)
 
 
 #### [MicrosoftLogging](/NServiceBusExtensions/NServiceBus.MicrosoftLogging)
 
 Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://github.com/aspnet/Logging).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.MicrosoftLogging) | [NuGet: NServiceBus.MicrosoftLogging](https://nuget.org/packages/NServiceBus.MicrosoftLogging/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.MicrosoftLogging) | [NuGet](https://nuget.org/packages/NServiceBus.MicrosoftLogging/)
 
 
 ### Serializers
@@ -28,70 +28,70 @@ Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://git
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Bond](https://microsoft.github.io/bond/manual/bond_cs.html).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Bond) | [NuGet: NServiceBus.Bond](https://nuget.org/packages/NServiceBus.Bond/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Bond) | [NuGet](https://nuget.org/packages/NServiceBus.Bond/)
 
 
 #### [NServiceBus.Hyperion](/NServiceBusExtensions/NServiceBus.Hyperion)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Hyperion) | [NuGet: NServiceBus.Hyperion](https://nuget.org/packages/NServiceBus.Hyperion/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Hyperion) | [NuGet](https://nuget.org/packages/NServiceBus.Hyperion/)
 
 
 #### [Jil](/NServiceBusExtensions/NServiceBus.Jil)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Jil](https://github.com/kevin-montrose/Jil).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Jil) | [NuGet: NServiceBus.Jil](https://nuget.org/packages/NServiceBus.Jil/).
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Jil) | [NuGet](https://nuget.org/packages/NServiceBus.Jil/).
 
 
 #### [MsgPack](/NServiceBusExtensions/NServiceBus.MsgPack)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [MsgPack].(https://github.com/msgpack/msgpack-cli)
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.MsgPack) | [NuGet: NServiceBus.MsgPack](https://nuget.org/packages/NServiceBus.MsgPack/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.MsgPack) | [NuGet](https://nuget.org/packages/NServiceBus.MsgPack/)
 
 
 #### [MessagePack](/NServiceBusExtensions/NServiceBus.MessagePack)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.MessagePack) | [NuGet: NServiceBus.MessagePack](https://nuget.org/packages/NServiceBus.MessagePack/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.MessagePack) | [NuGet](https://nuget.org/packages/NServiceBus.MessagePack/)
 
 
 #### [ProtoBufNet](/NServiceBusExtensions/NServiceBus.ProtoBufNet)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [ProtoBufNet](https://github.com/mgravell/protobuf-net).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.ProtoBuf) | [NuGet: NServiceBus.ProtoBuf](https://nuget.org/packages/NServiceBus.ProtoBuf/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.ProtoBuf) | [NuGet](https://nuget.org/packages/NServiceBus.ProtoBuf/)
 
 
 #### [ProtoBufGoogle](/NServiceBusExtensions/NServiceBus.ProtoBufGoogle)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/reference/csharp-generated).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.ProtoBufGoogle) | [NuGet: NServiceBus.ProtoBufGoogle](https://nuget.org/packages/NServiceBus.ProtoBufGoogle/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.ProtoBufGoogle) | [NuGet](https://nuget.org/packages/NServiceBus.ProtoBufGoogle/)
 
 
 #### [Utf8Json](/NServiceBusExtensions/NServiceBus.Utf8Json)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Utf8Json](https://github.com/neuecc/Utf8Json).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Utf8Json) | [NuGet: NServiceBus.Utf8Json](https://nuget.org/packages/NServiceBus.Utf8Json/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Utf8Json) | [NuGet](https://nuget.org/packages/NServiceBus.Utf8Json/)
 
 
 #### [NServiceBus.Wire](/NServiceBusExtensions/NServiceBus.Wire)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Wire](https://github.com/rogeralsing/Wire).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Wire) | [NuGet: NServiceBus.Wire](https://nuget.org/packages/NServiceBus.Wire/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Wire) | [NuGet](https://nuget.org/packages/NServiceBus.Wire/)
 
 
 #### [ZeroFormatter](/NServiceBusExtensions/NServiceBus.ZeroFormatter)
 
 Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [ZeroFormatter](https://github.com/neuecc/ZeroFormatter).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.ZeroFormatter) | [NuGet: NServiceBus.ZeroFormatter](https://nuget.org/packages/NServiceBus.ZeroFormatter/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.ZeroFormatter) | [NuGet](https://nuget.org/packages/NServiceBus.ZeroFormatter/)
 
 
 ### Validation
@@ -100,14 +100,14 @@ Add support for [NServiceBus message serialization](https://docs.particular.net/
 
 Message validation using FluentValidation.
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.DataAnnotations) | [Nuget: NServiceBus.FluentValidation](https://nuget.org/packages/NServiceBus.FluentValidation/) 
+[Documentation](https://docs.particular.net/nuget/NServiceBus.DataAnnotations) | [Nuget](https://nuget.org/packages/NServiceBus.FluentValidation/) 
 
 
 #### [DataAnnotations](/NServiceBusExtensions/NServiceBus.Validation#nservicebusdataannotations)
 
 Message validation using DataAnnotations.
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.DataAnnotations) | [NuGet: NServiceBus.DataAnnotations](https://nuget.org/packages/NServiceBus.DataAnnotations/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.DataAnnotations) | [NuGet](https://nuget.org/packages/NServiceBus.DataAnnotations/)
 
 
 ### Attachments
@@ -117,14 +117,14 @@ Message validation using DataAnnotations.
 
 An implementation of the claim check pattern agains SQL server.
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Attachments.Sql) | [NuGet: NServiceBus.Attachments.Sql](https://nuget.org/packages/NServiceBus.Attachments.Sql/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Attachments.Sql) | [NuGet](https://nuget.org/packages/NServiceBus.Attachments.Sql/)
 
 
 #### [FileShare Attachments](/NServiceBusExtensions/NServiceBus.Attachments#FileShare)
 
 An implementation of the claim check pattern against a network file share.
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.Attachments.FileShare) | [NuGet: NServiceBus.Attachments.FileShare](https://nuget.org/packages/NServiceBus.Attachments.FileShare/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.Attachments.FileShare) | [NuGet](https://nuget.org/packages/NServiceBus.Attachments.FileShare/)
 
 
 ### Misc
@@ -134,25 +134,25 @@ An implementation of the claim check pattern against a network file share.
 
 SQL Server Transport Native is a shim providing low-level access to the [SQL Server Transport](https://docs.particular.net/transports/sql/) with no NServiceBus or SQL Server Transport reference required. 
 
-[Documentation](https://nuget.org/packages/NServiceBus.SqlServer.Native) | [NuGet: NServiceBus.SqlServer.Native](https://nuget.org/packages/NServiceBus.SqlServer.Native/)
+[Documentation](https://nuget.org/packages/NServiceBus.SqlServer.Native) | [NuGet](https://nuget.org/packages/NServiceBus.SqlServer.Native/)
 
 
 #### [Sql Transport HttpPassthrough](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlserverhttppassthrough)
 
 SQL HTTP Passthrough provides a bridge between an HTTP stream (via JavaScript on a web page) and the [SQL Server transport](https://docs.particular.net/transports/sql/). It leverages [SQL Transport - Native](https://docs.particular.net/transports/sql/sql-native.md) and [SQL Attachments](https://docs.particular.net/nservicebus/messaging/attachments-sql.md).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.SqlServer.HttpPassthrough) | [NuGet: NServiceBus.SqlServer.HttpPassthrough](https://nuget.org/packages/NServiceBus.SqlServer.HttpPassthrough/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.SqlServer.HttpPassthrough) | [NuGet](https://nuget.org/packages/NServiceBus.SqlServer.HttpPassthrough/)
 
 
 #### [HandlerOrdering](/NServiceBusExtensions/NServiceBus.HandlerOrdering)
 
 Allows the dependency between handlers to be expressed via interfaces and the resulting order is derived at runtime.
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.HandlerOrdering) | [NuGet: NServiceBus.HandlerOrdering](https://nuget.org/packages/NServiceBus.HandlerOrdering/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.HandlerOrdering) | [NuGet](https://nuget.org/packages/NServiceBus.HandlerOrdering/)
 
 
 #### [AuditFilter](/NServiceBusExtensions/NServiceBus.AuditFilter)
 
 Selectively choose what message types should be sent to the [Audit queue](https://docs.particular.net/nservicebus/operations/auditing).
 
-[Documentation](https://docs.particular.net/nuget/NServiceBus.AuditFilter) | [NuGet: NServiceBus.AuditFilter](https://nuget.org/packages/NServiceBus.AuditFilter/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.AuditFilter) | [NuGet](https://nuget.org/packages/NServiceBus.AuditFilter/)
