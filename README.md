@@ -47,7 +47,7 @@ Add support for [message serialization](https://docs.particular.net/nservicebus/
 
 #### [MsgPack](/NServiceBusExtensions/NServiceBus.MsgPack)
 
-Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MsgPack].(https://github.com/msgpack/msgpack-cli)
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MsgPack](https://github.com/msgpack/msgpack-cli).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.MsgPack) | [NuGet](https://nuget.org/packages/NServiceBus.MsgPack/)
 
