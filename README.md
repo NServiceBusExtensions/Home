@@ -31,7 +31,7 @@ Add support for [message serialization](https://docs.particular.net/nservicebus/
 [Documentation](https://docs.particular.net/nuget/NServiceBus.Bond) | [NuGet](https://nuget.org/packages/NServiceBus.Bond/)
 
 
-### [NServiceBus.Hyperion](/NServiceBusExtensions/NServiceBus.Hyperion)
+### [Hyperion](/NServiceBusExtensions/NServiceBus.Hyperion)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
 
