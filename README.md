@@ -26,7 +26,7 @@ Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://git
 
 #### [Bond](/NServiceBusExtensions/NServiceBus.Bond)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Bond](https://microsoft.github.io/bond/manual/bond_cs.html).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Bond](https://microsoft.github.io/bond/manual/bond_cs.html).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.Bond) | [NuGet](https://nuget.org/packages/NServiceBus.Bond/)
 
