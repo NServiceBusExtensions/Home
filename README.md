@@ -33,63 +33,63 @@ Add support for [NServiceBus message serialization](https://docs.particular.net/
 
 #### [NServiceBus.Hyperion](/NServiceBusExtensions/NServiceBus.Hyperion)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.Hyperion) | [NuGet](https://nuget.org/packages/NServiceBus.Hyperion/)
 
 
 #### [Jil](/NServiceBusExtensions/NServiceBus.Jil)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Jil](https://github.com/kevin-montrose/Jil).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Jil](https://github.com/kevin-montrose/Jil).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.Jil) | [NuGet](https://nuget.org/packages/NServiceBus.Jil/).
 
 
 #### [MsgPack](/NServiceBusExtensions/NServiceBus.MsgPack)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [MsgPack].(https://github.com/msgpack/msgpack-cli)
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MsgPack].(https://github.com/msgpack/msgpack-cli)
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.MsgPack) | [NuGet](https://nuget.org/packages/NServiceBus.MsgPack/)
 
 
 #### [MessagePack](/NServiceBusExtensions/NServiceBus.MessagePack)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.MessagePack) | [NuGet](https://nuget.org/packages/NServiceBus.MessagePack/)
 
 
 #### [ProtoBufNet](/NServiceBusExtensions/NServiceBus.ProtoBufNet)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [ProtoBufNet](https://github.com/mgravell/protobuf-net).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [ProtoBufNet](https://github.com/mgravell/protobuf-net).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.ProtoBuf) | [NuGet](https://nuget.org/packages/NServiceBus.ProtoBuf/)
 
 
 #### [ProtoBufGoogle](/NServiceBusExtensions/NServiceBus.ProtoBufGoogle)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/reference/csharp-generated).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/reference/csharp-generated).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.ProtoBufGoogle) | [NuGet](https://nuget.org/packages/NServiceBus.ProtoBufGoogle/)
 
 
 #### [Utf8Json](/NServiceBusExtensions/NServiceBus.Utf8Json)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Utf8Json](https://github.com/neuecc/Utf8Json).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Utf8Json](https://github.com/neuecc/Utf8Json).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.Utf8Json) | [NuGet](https://nuget.org/packages/NServiceBus.Utf8Json/)
 
 
 #### [NServiceBus.Wire](/NServiceBusExtensions/NServiceBus.Wire)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [Wire](https://github.com/rogeralsing/Wire).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Wire](https://github.com/rogeralsing/Wire).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.Wire) | [NuGet](https://nuget.org/packages/NServiceBus.Wire/)
 
 
 #### [ZeroFormatter](/NServiceBusExtensions/NServiceBus.ZeroFormatter)
 
-Add support for [NServiceBus message serialization](https://docs.particular.net/nservicebus/serialization/) via [ZeroFormatter](https://github.com/neuecc/ZeroFormatter).
+Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [ZeroFormatter](https://github.com/neuecc/ZeroFormatter).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.ZeroFormatter) | [NuGet](https://nuget.org/packages/NServiceBus.ZeroFormatter/)
 
@@ -98,14 +98,14 @@ Add support for [NServiceBus message serialization](https://docs.particular.net/
 
 #### [FluentValidation](/NServiceBusExtensions/NServiceBus.Validation#nservicebusfluentvalidation)
 
-Message validation using FluentValidation.
+Message validation using [FluentValidation](https://fluentvalidation.net/).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.DataAnnotations) | [Nuget](https://nuget.org/packages/NServiceBus.FluentValidation/) 
 
 
 #### [DataAnnotations](/NServiceBusExtensions/NServiceBus.Validation#nservicebusdataannotations)
 
-Message validation using DataAnnotations.
+Message validation using [DataAnnotations](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations).
 
 [Documentation](https://docs.particular.net/nuget/NServiceBus.DataAnnotations) | [NuGet](https://nuget.org/packages/NServiceBus.DataAnnotations/)
 
