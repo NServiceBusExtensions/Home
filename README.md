@@ -1,7 +1,56 @@
-# Home
+NServiceBusExtensions is a collection of libraries that extend [NServiceBus](https://docs.particular.net/nservicebus/) in a variety of ways.
 
 
-## Extensions
+# License 
+
+All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
+
+
+# Community backed
+
+This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).
+
+It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute). This is an honesty system, there is no code that enforces. However when raising an issue or a pull request the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md).
+
+
+## Reference material
+
+ * [Open-Source Maintainers are Jerks!](https://vimeo.com/296579853)
+ * [How to Charge for your Open Source](https://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/)
+ * [Sustain OSS: The Report](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf)
+ * [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
+ * [Who should fund open source projects?](https://jaxenter.com/who-funds-open-source-projects-133222.html)
+
+
+## Licensing/Backing FAQ
+
+
+### But shouldn't OSS be completely free an supported by the community through their constributions?
+
+Yes this is true, however the long term reality has shown this not to be the case. The cast majority of consumers of open source projects do not contribute enough to ensure those project survive. This results in a small core team spending large amounts of their own free time maintiang projects. 
+
+
+### But it is MIT, can't I use it for free?
+
+Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you can ignore the community backing honesty system and use these projest for free.
+
+
+### Do I need a license to use these libraries at runtime in production?
+
+No, no license is required on production systems.
+
+
+### Can I fork, re-use code, or start competing (possuibly commercial) projects?
+
+Yes.
+
+
+### What happens if I wrap one of these libraries in another library?
+
+Consumers of that wrapper should also become backers of nservicebusextensions.
+
+
+# Extensions
 
 
 ## Logging
