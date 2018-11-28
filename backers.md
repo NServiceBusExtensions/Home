@@ -4,4 +4,4 @@ Below you'll find a list of the people and organizations that have made financia
 
 ## Backers
 
- * Simon Cropp [GitHub](https://github.com/simoncropp) | [Open Collective](https://opencollective.com/simoncropp)
+ * Simon Cropp | [GitHub](https://github.com/simoncropp) | [Open Collective](https://opencollective.com/simoncropp)
