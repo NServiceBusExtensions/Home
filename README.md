@@ -10,16 +10,9 @@ All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
 
 This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).
 
-It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute). This is an honesty system, there is no code that enforces. However when raising an issue or a pull request the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md).
+It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute). This is an honesty system, there is no code that enforces. However when raising an issue or a pull request, the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md).
 
 
-## Reference material
-
- * [Open-Source Maintainers are Jerks!](https://vimeo.com/296579853)
- * [How to Charge for your Open Source](https://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/)
- * [Sustain OSS: The Report](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf)
- * [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
- * [Who should fund open source projects?](https://jaxenter.com/who-funds-open-source-projects-133222.html)
 
 
 ## Licensing/Backing FAQ
@@ -35,7 +28,7 @@ Yes this is true, however the long term reality has shown this not to be the cas
 Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you can ignore the community backing honesty system and use these projest for free.
 
 
-### Do I need a license to use these libraries at runtime in production?
+### Do I need a license to use these libraries at runtime in production or testing environments?
 
 No, no license is required on production systems.
 
@@ -48,6 +41,15 @@ Yes.
 ### What happens if I wrap one of these libraries in another library?
 
 Consumers of that wrapper should also become backers of nservicebusextensions.
+
+
+## Reference material
+
+ * [Open-Source Maintainers are Jerks!](https://vimeo.com/296579853)
+ * [How to Charge for your Open Source](https://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/)
+ * [Sustain OSS: The Report](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf)
+ * [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
+ * [Who should fund open source projects?](https://jaxenter.com/who-funds-open-source-projects-133222.html)
 
 
 # Extensions
