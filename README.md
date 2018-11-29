@@ -219,8 +219,8 @@ Selectively choose what message types should be sent to the [Audit queue](https:
 [Documentation](https://docs.particular.net/nuget/NServiceBus.AuditFilter) | [NuGet](https://nuget.org/packages/NServiceBus.AuditFilter/)
 
 
-### [Newtonsoft.Encryption](https://github.com/NServiceBusExtensions/Newtonsoft.Json.Encryption#nservicebus)
+### [Newtonsoft Message Property Encryption](https://github.com/NServiceBusExtensions/Newtonsoft.Json.Encryption#nservicebus)
 
 Leverages the Newtonsoft extension API to encrypt/decrypt specific parts of messages at serialization time.
 
-[NuGet](https://www.nuget.org/packages/NServiceBus.Newtonsoft.Encryption/)
+[Documentation](https://docs.particular.net/samples/encryption/newtonsoft-json-encryption/) | [NuGet](https://www.nuget.org/packages/NServiceBus.Newtonsoft.Encryption/)
