@@ -5,3 +5,4 @@ Below you'll find a list of the people and organizations that have made financia
 ## Backers
 
  * Simon Cropp | [GitHub](https://github.com/simoncropp) | [Open Collective](https://opencollective.com/simoncropp)
+ * Jan-Pieter Zoutewelle | [GitHub](https://github.com/janpieterz) | [Open Collective](https://opencollective.com/intreba-bv)

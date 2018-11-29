@@ -1,57 +1,68 @@
 NServiceBusExtensions is a collection of libraries that extend [NServiceBus](https://docs.particular.net/nservicebus/) in a variety of ways.
 
 
-# License 
+## License 
 
 All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
 
 
-# Community backed
+<!--- StartOpenCollectiveBackers -->
+
+## Community backed
 
 **This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).**
 
-**It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute).** This is an honesty system, there is no code that enforces. However when raising an issue or a pull request, the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md).
+**It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute).** This is an honesty system, there is no code that enforces. However when raising an issue or a pull request, the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md), and that issue/PR may be closed without further examination.
 
 
-## Licensing/Backing FAQ
+### Backers
+
+Thanks to all the backers! [[Become a backer](https://opencollective.com/nservicebusextensions#backer)]
+
+<a href="https://opencollective.com/nservicebusextensions#backers" target="_blank"><img src="https://opencollective.com/nservicebusextensions/backers.svg?width=890"></a>
+
+<!--- EndOpenCollectiveBackers -->
 
 
-### But shouldn't OSS be completely free and supported by the community through their contributions?
+### Licensing/Backing FAQ
+
+
+#### But shouldn't OSS be completely free and supported by the community through their contributions?
 
 Yes in theory this is true, however the long term reality has shown this not to be the case. The vast majority of consumers of open source projects do not contribute enough to ensure those project survive. This results in a small core team spending large amounts of their own free time maintaining projects.
 
 
-### But it is MIT, can't I use it for free?
+#### But it is MIT, can't I use it for free?
 
 Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you can ignore the community backing honesty system and use these project for free.
 
 
-### Do I need to be a backer to contribute a Pull Request?
+#### Do I need to be a backer to contribute a Pull Request?
 
 Yes. You must be a backer to be a user of the below NuGet packages. Contributing Pull Requests does not cancel this out. It may seem unfair to expect people both contribute PRs and also financially back this project. However it is important to remember the effort in reviewing and merging a PR is often similar to that of creating the PR. Also the project maintainers are committing to support that added code (feature or bug fix) for the life of the project.
 
 
-### Do I need a license to use these libraries at runtime in production or testing environments?
+#### Do I need a license to use these libraries at runtime in production or testing environments?
 
 No license is required on production systems.
 
 
-### Can I fork, re-use code, or start competing (possibly commercial) projects?
+#### Can I fork, re-use code, or start competing (possibly commercial) projects?
 
 Yes.
 
 
-### Do all developers in a company need to become backers?
+#### Do all developers in a company need to become backers?
 
 No. Only those coding against projects that directly, or indirectly, consume any of the NuGet packages listed below.
 
 
-### What happens if I wrap one of these libraries in another library?
+#### What happens if I wrap one of these libraries in another library?
 
 Consumers of that wrapper should also become backers of NServiceBusExtensions.
 
 
-## Reference material
+### Reference material
 
  * [Open-Source Maintainers are Jerks!](https://vimeo.com/296579853)
  * [How to Charge for your Open Source](https://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/)
