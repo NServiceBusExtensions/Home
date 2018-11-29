@@ -8,9 +8,9 @@ All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
 
 # Community backed
 
-This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).
+**This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).**
 
-It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute). This is an honesty system, there is no code that enforces. However when raising an issue or a pull request, the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md).
+**It is expected that any developer that uses any of these libraries [become at least a backer](https://opencollective.com/nservicebusextensions#contribute).** This is an honesty system, there is no code that enforces. However when raising an issue or a pull request, the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md).
 
 
 ## Licensing/Backing FAQ
