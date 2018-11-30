@@ -25,7 +25,7 @@ A clear and concise description of what the issue is and, if relevant, the expec
 
 #### Minimal Repro
 
-Ensure you have replicated the issue in a minimal solution with the fewest moving parts. Often this will help point to the true cause of the problem. Upload this repro as part of the issue as a public GitHub repository. The repro will allow the maintainers of this project to smoke test any fix.
+Ensure you have replicated the issue in a minimal solution with the fewest moving parts. Often this will help point to the true cause of the problem. Upload this repro as part of the issue as a [public GitHub repository](https://help.github.com/articles/create-a-repo/). The repro will allow the maintainers of this project to smoke test any fix.
 
 
 #### Submit a PR that fixes the issue
