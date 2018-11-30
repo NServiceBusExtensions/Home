@@ -17,9 +17,11 @@ All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
 
 ### Backers
 
-Thanks to all the backers! [[Become a backer](https://opencollective.com/nservicebusextensions#backer)]
+Thanks to all the backers! [[Become a backer](https://opencollective.com/nservicebusextensions#contribute)]
 
 <a href="https://opencollective.com/nservicebusextensions#contribute" target="_blank"><img src="https://opencollective.com/nservicebusextensions/tiers/backer.svg&button=false"></a>
+
+[<img src="https://opencollective.com/nservicebusextensions/donate/button@1x.png?color=blue" width="200px">](https://opencollective.com/nservicebusextensions#contribute)
 
 <!--- EndOpenCollectiveBackers -->
 
