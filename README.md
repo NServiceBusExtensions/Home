@@ -1,11 +1,6 @@
 NServiceBusExtensions is a collection of libraries that extend [NServiceBus](https://docs.particular.net/nservicebus/) in a variety of ways.
 
 
-## License 
-
-All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
-
-
 <!--- StartOpenCollectiveBackers -->
 
 ## Community backed
@@ -26,44 +21,6 @@ Thanks to all the backers! [[Become a backer](https://opencollective.com/nservic
 <!--- EndOpenCollectiveBackers -->
 
 
-### Licensing/Backing FAQ
-
-
-#### But shouldn't OSS be completely free and supported by the community through their contributions?
-
-Yes in theory this is true, however the long term reality has shown this not to be the case. The vast majority of consumers of open source projects do not contribute enough to ensure those project survive. This results in a small core team spending large amounts of their own free time maintaining projects.
-
-
-#### But it is MIT, can't I use it for free?
-
-Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you can ignore the community backing honesty system and use these project for free.
-
-
-#### Do I need to be a backer to contribute a Pull Request?
-
-Yes. You must be a backer to be a user of the below NuGet packages. Contributing Pull Requests does not cancel this out. It may seem unfair to expect people both contribute PRs and also financially back this project. However it is important to remember the effort in reviewing and merging a PR is often similar to that of creating the PR. Also the project maintainers are committing to support that added code (feature or bug fix) for the life of the project.
-
-
-#### Do I need a license to use these libraries at runtime in production or testing environments?
-
-No license is required on production systems.
-
-
-#### Can I fork, re-use code, or start competing (possibly commercial) projects?
-
-Yes.
-
-
-#### Do all developers in a company need to become backers?
-
-No. Only those coding against projects that directly, or indirectly, consume any of the NuGet packages listed below.
-
-
-#### What happens if I wrap one of these libraries in another library?
-
-Consumers of that wrapper should also become backers of NServiceBusExtensions.
-
-
 ### Reference material
 
  * [Open-Source Maintainers are Jerks!](https://vimeo.com/296579853)
@@ -72,6 +29,49 @@ Consumers of that wrapper should also become backers of NServiceBusExtensions.
  * [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
  * [Who should fund open source projects?](https://jaxenter.com/who-funds-open-source-projects-133222.html)
  * [Apply at OSS Inc today](https://twitter.com/ryanchenkie/status/1067801413974032385)
+
+
+## License
+
+All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
+
+
+## Licensing/Backing FAQ
+
+
+### But shouldn't OSS be completely free and supported by the community through their contributions?
+
+Yes in theory this is true, however the long term reality has shown this not to be the case. The vast majority of consumers of open source projects do not contribute enough to ensure those project survive. This results in a small core team spending large amounts of their own free time maintaining projects.
+
+
+### But it is MIT, can't I use it for free?
+
+Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you can ignore the community backing honesty system and use these project for free.
+
+
+### Do I need to be a backer to contribute a Pull Request?
+
+Yes. You must be a backer to be a user of the below NuGet packages. Contributing Pull Requests does not cancel this out. It may seem unfair to expect people both contribute PRs and also financially back this project. However it is important to remember the effort in reviewing and merging a PR is often similar to that of creating the PR. Also the project maintainers are committing to support that added code (feature or bug fix) for the life of the project.
+
+
+### Do I need a license to use these libraries at runtime in production or testing environments?
+
+No license is required on production systems.
+
+
+### Can I fork, re-use code, or start competing (possibly commercial) projects?
+
+Yes.
+
+
+### Do all developers in a company need to become backers?
+
+No. Only those coding against projects that directly, or indirectly, consume any of the NuGet packages listed below.
+
+
+### What happens if I wrap one of these libraries in another library?
+
+Consumers of that wrapper should also become backers of NServiceBusExtensions.
 
 
 # Extensions
