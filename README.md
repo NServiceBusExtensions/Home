@@ -3,7 +3,7 @@ NServiceBusExtensions is a collection of libraries that extend [NServiceBus](htt
 
 [Already a Patron: skip past the backing information](#endofbacking)
 
-<a href="https://opencollective.com/aurelia/tiers/gold/0/website" target="_blank"><img height="200px" src="https://opencollective.com/aurelia/tiers/gold/0/avatar.svg"></a>
+<a href="https://opencollective.com/aurelia/tiers/gold/0/website" target="_blank"><img src="https://opencollective.com/aurelia/tiers/bronze/1/avatar.svg"></a>
 <!--- StartOpenCollectiveBackers -->
 
 
