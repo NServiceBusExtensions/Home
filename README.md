@@ -28,16 +28,16 @@ Support this project by [becoming a Platinum Sponsor](https://opencollective.com
 
 Support this project by [becoming a Gold Sponsor](https://opencollective.com/nservicebusextensions/order/7001). A large company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under the NServiceBusExtensions organization.
 
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/1/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/2/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/3/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/4/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/5/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/6/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/7/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/8/avatar.svg" height="70px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/9/avatar.svg" height="70px"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/1/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/2/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/3/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/4/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/5/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/6/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/7/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/8/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/9/avatar.svg" style="height:70px;"></a>
 
 
 ### Silver Sponsors
