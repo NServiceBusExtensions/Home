@@ -7,9 +7,6 @@ NServiceBusExtensions is a collection of libraries that extend [NServiceBus](htt
 <!--- StartOpenCollectiveBackers -->
 
 
-<div align="center">
-
-
 ## Community backed
 
 **This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).**
@@ -106,8 +103,6 @@ Thanks to all the backing developers! Support this project by [becoming a patron
 <a href="https://opencollective.com/nservicebusextensions/backer/7/website"><img src="https://opencollective.com/nservicebusextensions/backer/7/avatar.svg"></a>
 <a href="https://opencollective.com/nservicebusextensions/backer/8/website"><img src="https://opencollective.com/nservicebusextensions/backer/8/avatar.svg"></a>
 <a href="https://opencollective.com/nservicebusextensions/backer/9/website"><img src="https://opencollective.com/nservicebusextensions/backer/9/avatar.svg"></a>
-
-</div>
 
 <!--- EndOpenCollectiveBackers -->
 
