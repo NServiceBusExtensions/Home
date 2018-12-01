@@ -44,26 +44,26 @@ Support this project by [becoming a Gold Sponsor](https://opencollective.com/nse
 
 Support this project by [becoming a Silver Sponsors](https://opencollective.com/nservicebusextensions/order/6973). A company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under the NServiceBusExtensions organization.
 
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/0/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/1/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/2/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/3/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/4/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/5/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/6/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/7/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/8/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/9/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/10/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/10/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/11/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/11/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/12/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/12/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/13/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/13/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/14/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/14/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/15/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/15/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/16/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/16/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/17/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/17/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/18/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/18/avatar.svg" height="60px"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/19/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/19/avatar.svg" height="60px"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/0/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/1/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/2/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/3/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/4/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/5/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/6/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/7/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/8/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/9/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/10/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/10/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/11/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/11/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/12/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/12/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/13/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/13/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/14/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/14/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/15/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/15/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/16/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/16/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/17/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/17/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/18/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/18/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/19/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/19/avatar.svg" style="height:60px;"></a>
 
 
 ### Bronze Sponsors
