@@ -7,7 +7,7 @@ NServiceBusExtensions is a collection of libraries that extend [NServiceBus](htt
 
 ## Community backed
 
-**It is expected that any developer using any of these libraries [become at a Patron](https://opencollective.com/nservicebusextensions/order/6976). [Go to licensing FAQ](https://github.com/NServiceBusExtensions/home/tree/master#licensingpatron-faq)**
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/order/6976) to use any of these libraries . [Go to licensing FAQ](https://github.com/NServiceBusExtensions/home/tree/master#licensingpatron-faq)**
 
 
 ### Platinum Sponsors
