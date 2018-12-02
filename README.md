@@ -1,6 +1,6 @@
 <!--- StartOpenCollectiveBackers -->
 
-[Already a Patron: skip past the backing information](#endofbacking)
+[Already a Patron? skip past this section](#endofbacking)
 
 
 ## Community backed
@@ -78,6 +78,7 @@ Thanks to all the backing developers! Support this project by [becoming a patron
 
 <img src="https://opencollective.com/nservicebusextensions/tiers/patron.svg?width=890&avatarHeight=60&button=false">
 
+<!--
 
 ### Generous financial sponsors
 
@@ -105,6 +106,8 @@ Thanks to all the backing developers! Support this project by [becoming a patron
 <a href="https://opencollective.com/nservicebusextensions/backer/7/website"><img src="https://opencollective.com/nservicebusextensions/backer/7/avatar.svg"></a>
 <a href="https://opencollective.com/nservicebusextensions/backer/8/website"><img src="https://opencollective.com/nservicebusextensions/backer/8/avatar.svg"></a>
 <a href="https://opencollective.com/nservicebusextensions/backer/9/website"><img src="https://opencollective.com/nservicebusextensions/backer/9/avatar.svg"></a>
+
+-->
 
 <!--- EndOpenCollectiveBackers -->
 
