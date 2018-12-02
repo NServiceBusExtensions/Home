@@ -1,73 +1,75 @@
-NServiceBusExtensions is a collection of libraries that extend [NServiceBus](https://docs.particular.net/nservicebus/) in a variety of ways.
-
+<!--- StartOpenCollectiveBackers -->
 
 [Already a Patron: skip past the backing information](#endofbacking)
 
 
-<!--- StartOpenCollectiveBackers -->
-
-
 ## Community backed
 
-**This is a community backed project. Backing is done via [opencollective.com/nservicebusextensions](https://opencollective.com/nservicebusextensions/).**
-
-**It is expected that any developer that uses any of these libraries [become at a Patron](https://opencollective.com/nservicebusextensions/order/6976).** This is an honesty system, there is no code that enforces this requirement. However when raising an issue or a pull request, the GitHub users name may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md), and that issue/PR may be closed without further examination.
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/order/6976) to use any of these libraries. [Go to licensing FAQ](https://github.com/NServiceBusExtensions/home/tree/master#licensingpatron-faq)**
 
 
 ### Platinum Sponsors
 
-Support this project by [becoming a Platinum Sponsor](https://opencollective.com/nservicebusextensions/order/7012). A banner with company logo will show up here with a link to your website. A "Sponsored by" text and link will be added the description of the NuGet Package for the life of your sponsorship. You get 1 hour of remote support per month.
+Support this project by [becoming a Platinum Sponsor](https://opencollective.com/nservicebusextensions/order/7012). A banner with your company logo will be added here with a link to your website. The banner will also be added to all GitHub repositories under the NServiceBusExtensions organization. A "Sponsored by" text and link will be added the description of the NuGet Package for the life of your sponsorship. You also get 1 hour of remote support per month.
 
-<a href="https://opencollective.com/nservicebusextensions/tiers/platinum/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/platinum/0/avatar.svg"></a>
+<!--
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg" height="100px"></a>
+-->
 
 
 ### Gold Sponsors
 
-Support this project by [becoming a Gold Sponsor](https://opencollective.com/nservicebusextensions/order/7001). Your logo will show up here with a link to your website.
+Support this project by [becoming a Gold Sponsor](https://opencollective.com/nservicebusextensions/order/7001). A large company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
 
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/1/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/2/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/3/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/4/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/5/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/6/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/7/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/8/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/9/avatar.svg"></a>
+<!--
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/1/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/2/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/3/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/4/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/5/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/6/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/7/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/8/avatar.svg" style="height:70px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/gold/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/9/avatar.svg" style="height:70px;"></a>
+-->
 
 
 ### Silver Sponsors
 
-Support this project by [becoming a Silver Sponsors](https://opencollective.com/nservicebusextensions/order/6973). Your logo will show up here with a link to your website.
+Support this project by [becoming a Silver Sponsors](https://opencollective.com/nservicebusextensions/order/6973). A medium company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
 
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/0/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/1/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/2/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/3/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/4/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/5/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/6/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/7/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/8/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/9/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/10/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/10/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/11/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/11/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/12/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/12/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/13/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/13/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/14/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/14/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/15/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/15/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/16/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/16/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/17/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/17/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/18/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/18/avatar.svg"></a>
-<a href="https://opencollective.com/nservicebusextensions/tiers/silver/19/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/19/avatar.svg"></a>
+<!--
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/0/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/1/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/1/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/2/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/2/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/3/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/3/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/4/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/4/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/5/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/5/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/6/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/6/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/7/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/7/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/8/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/8/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/9/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/9/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/10/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/10/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/11/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/11/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/12/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/12/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/13/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/13/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/14/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/14/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/15/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/15/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/16/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/16/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/17/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/17/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/18/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/18/avatar.svg" style="height:60px;"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/silver/19/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/19/avatar.svg" style="height:60px;"></a>
+-->
 
 
 ### Bronze Sponsors
 
-Support this project by [becoming a Bronze Sponsors](https://opencollective.com/nservicebusextensions/order/6972). Your avatar will show up here with a link to your website.
+Support this project by [becoming a Bronze Sponsors](https://opencollective.com/nservicebusextensions/order/6972). The company avatar will show up here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
 
+<!--
 <img src="https://opencollective.com/nservicebusextensions/tiers/bronze.svg?width=890&avatarHeight=80&button=false">
+-->
 
 
 ### Patrons
@@ -104,26 +106,31 @@ Thanks to all the backing developers! Support this project by [becoming a patron
 <a href="https://opencollective.com/nservicebusextensions/backer/8/website"><img src="https://opencollective.com/nservicebusextensions/backer/8/avatar.svg"></a>
 <a href="https://opencollective.com/nservicebusextensions/backer/9/website"><img src="https://opencollective.com/nservicebusextensions/backer/9/avatar.svg"></a>
 
-
 <!--- EndOpenCollectiveBackers -->
 
 
-### Reference material
+## Licensing/Patron FAQ
+
+
+### Enforcement
+
+It is an honesty system with no code or legal enforcement. When raising an issue or a pull request, the users may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md), and that issue/PR may be closed without further examination.
+
+
+### So what OSS license are projects using?
+
+All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
+
+
+### Why charge for open source?
 
  * [Open-Source Maintainers are Jerks!](https://vimeo.com/296579853)
+ * [FOSS is free as in toilet](http://unhandledexpression.com/general/2018/11/27/foss-is-free-as-in-toilet.html)
  * [How to Charge for your Open Source](https://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/)
  * [Sustain OSS: The Report](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf)
  * [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
  * [Who should fund open source projects?](https://jaxenter.com/who-funds-open-source-projects-133222.html)
  * [Apply at OSS Inc today](https://twitter.com/ryanchenkie/status/1067801413974032385)
-
-
-## License
-
-All projects are licensed under the [MIT](https://opensource.org/licenses/MIT)
-
-
-## Licensing/Patron FAQ
 
 
 ### But shouldn't OSS be completely free and supported by the community through their contributions?
@@ -136,7 +143,7 @@ Yes in theory this is true, however the long term reality has shown this not to 
 Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you can ignore the community backing honesty system and use these project for free.
 
 
-### Do I need to be a backer to contribute a Pull Request?
+### Do I need to be a Patron to contribute a Pull Request?
 
 Yes. You must be a Patron to be a user of the below NuGet packages. Contributing Pull Requests does not cancel this out. It may seem unfair to expect people both contribute PRs and also financially back this project. However it is important to remember the effort in reviewing and merging a PR is often similar to that of creating the PR. Also the project maintainers are committing to support that added code (feature or bug fix) for the life of the project.
 
@@ -151,7 +158,7 @@ No license is required on production systems.
 Yes.
 
 
-### Do all developers in a company need to become backers?
+### Do all developers in a company need to become Patrons?
 
 No. Only those coding against projects that directly, or indirectly, consume any of the NuGet packages listed below.
 
