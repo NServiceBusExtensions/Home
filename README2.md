@@ -65,7 +65,7 @@ Support this project by [becoming a Silver Sponsors](https://opencollective.com/
 
 ### Bronze Sponsors
 
-Support this project by [becoming a Bronze Sponsors](https://opencollective.com/nservicebusextensions/order/6972). The company avatar will show up here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
+Support this project by [becoming a Bronze Sponsors](https://opencollective.com/nservicebusextensions/order/6972). The company avatar will show up here with a link to your website. The avatar will also be added to all GitHub repositories under this organization.
 
 <!--
 <img src="https://opencollective.com/nservicebusextensions/tiers/bronze.svg?width=890&avatarHeight=80&button=false">
