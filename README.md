@@ -1,5 +1,3 @@
-NServiceBusExtensions is a collection of libraries that extend [NServiceBus](https://docs.particular.net/nservicebus/) in a variety of ways.
-
 <!--- StartOpenCollectiveBackers -->
 
 [Already a Patron: skip past the backing information](#endofbacking)
