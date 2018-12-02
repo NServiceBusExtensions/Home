@@ -19,7 +19,7 @@ Support this project by [becoming a Platinum Sponsor](https://opencollective.com
 
 ### Gold Sponsors
 
-Support this project by [becoming a Gold Sponsor](https://opencollective.com/nservicebusextensions/order/7001). A large company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under the [NServiceBusExtensions organization](https://github.com/NServiceBusExtensions/).
+Support this project by [becoming a Gold Sponsor](https://opencollective.com/nservicebusextensions/order/7001). A large company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
 
 <!--
 <a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg" style="height:70px;"></a>
@@ -37,7 +37,7 @@ Support this project by [becoming a Gold Sponsor](https://opencollective.com/nse
 
 ### Silver Sponsors
 
-Support this project by [becoming a Silver Sponsors](https://opencollective.com/nservicebusextensions/order/6973). A medium company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under the [NServiceBusExtensions organization](https://github.com/NServiceBusExtensions/).
+Support this project by [becoming a Silver Sponsors](https://opencollective.com/nservicebusextensions/order/6973). A medium company logo will be added here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
 
 <!--
 <a href="https://opencollective.com/nservicebusextensions/tiers/silver/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/silver/0/avatar.svg" style="height:60px;"></a>
@@ -65,7 +65,7 @@ Support this project by [becoming a Silver Sponsors](https://opencollective.com/
 
 ### Bronze Sponsors
 
-Support this project by [becoming a Bronze Sponsors](https://opencollective.com/nservicebusextensions/order/6972). The company avatar will show up here with a link to your website.  The logo will also be added to all GitHub repositories under the [NServiceBusExtensions organization](https://github.com/NServiceBusExtensions/).
+Support this project by [becoming a Bronze Sponsors](https://opencollective.com/nservicebusextensions/order/6972). The company avatar will show up here with a link to your website. The logo will also be added to all GitHub repositories under this organization.
 
 <!--
 <img src="https://opencollective.com/nservicebusextensions/tiers/bronze.svg?width=890&avatarHeight=80&button=false">
