@@ -10,10 +10,10 @@
 
 ### Platinum Sponsors
 
-Support this project by [becoming a Platinum Sponsor](https://opencollective.com/nservicebusextensions/order/7012). A banner with your company logo will be added here with a link to your website. The banner will also be added to all GitHub repositories under the NServiceBusExtensions organization. A "Sponsored by" text and link will be added the description of the NuGet Package for the life of your sponsorship. You also get 1 hour of remote support per month.
+Support this project by [becoming a Platinum Sponsor](https://opencollective.com/nservicebusextensions/order/7012). A banner with your company logo will be added here with a link to your website. The banner will also be added to all GitHub repositories under the NServiceBusExtensions organization. A "Sponsored by" text and link will be added the description of the all NuGet Packages for the life of your sponsorship. You also get 1 hour of remote support per month.
 
 <!--
-<a href="https://opencollective.com/nservicebusextensions/tiers/gold/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/gold/0/avatar.svg" height="100px"></a>
+<a href="https://opencollective.com/nservicebusextensions/tiers/platinum/0/website"><img src="https://opencollective.com/nservicebusextensions/tiers/platinum/0/avatar.svg" height="100px"></a>
 -->
 
 
