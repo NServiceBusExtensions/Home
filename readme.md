@@ -327,7 +327,7 @@ An implementation of the claim check pattern against a network file share.
 ## Misc
 
 
-### [Sql Transport  Native](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlservernative)
+### [Sql Transport Native](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlservernative)
 
 SQL Server Transport Native is a shim providing low-level access to the [SQL Server Transport](https://docs.particular.net/transports/sql/) with no NServiceBus or SQL Server Transport reference required. 
 
