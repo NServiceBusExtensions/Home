@@ -331,7 +331,7 @@ An implementation of the claim check pattern against a network file share.
 
 SQL Server Transport Native is a shim providing low-level access to the [SQL Server Transport](https://docs.particular.net/transports/sql/) with no NServiceBus or SQL Server Transport reference required. 
 
-[Documentation](https://nuget.org/packages/NServiceBus.SqlServer.Native) | [NuGet](https://nuget.org/packages/NServiceBus.SqlServer.Native/)
+[Documentation](https://docs.particular.net/nuget/NServiceBus.SqlServer.Native) | [NuGet](https://nuget.org/packages/NServiceBus.SqlServer.Native/)
 
 
 ### [Sql Transport HttpPassthrough](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlserverhttppassthrough)
