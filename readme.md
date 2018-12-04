@@ -115,9 +115,12 @@ Thanks to all the backing developers! Support this project by [becoming a patron
 ## Licensing/Patron FAQ
 
 
-### Enforcement
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/order/6976) to use any of these libraries.**
 
-It is an honesty system with no code or legal enforcement. When raising an issue or a pull request, the users may be checked against [the list of backers](https://github.com/NServiceBusExtensions/Home/blob/master/backers.md), and that issue/PR may be closed without further examination.
+
+### Honesty System / Enforcement
+
+It is an honesty system with no code or legal enforcement. When raising an issue or a pull request, the users may be checked against [the list of backers](https://github.com/Fody/Fody/blob/master/backers.md), and that issue/PR may be closed without further examination. If a individual or organization has no interest in the long term sustainability of Fody, then they are legally free to ignore the honesty system.
 
 
 ### Why charge for open source?
@@ -156,9 +159,24 @@ Yes all projects are under [MIT](https://opensource.org/licenses/MIT) and you ca
 Yes. You must be a Patron to be a user of the below NuGet packages. Contributing Pull Requests does not cancel this out. It may seem unfair to expect people both contribute PRs and also financially back this project. However it is important to remember the effort in reviewing and merging a PR is often similar to that of creating the PR. Also the project maintainers are committing to support that added code (feature or bug fix) for the life of the project.
 
 
-### How does a company license for their developers?
+### How does a company/organization license for their developers?
 
-A company can [Create an OpenCollective organization](https://github.com/opencollective/opencollective/wiki/Creating-an-organization-profile) and then allow their developers to draw on the funds from that organization.
+A company/organization can [Create an OpenCollective organization](https://github.com/opencollective/opencollective/wiki/Creating-an-organization-profile) and then allow their developers to draw on the funds from that company/organization.
+
+
+### Do all developers in a company/organization need to become Patrons?
+
+No. Only those coding against projects that directly, or indirectly, consume any of the NuGet packages listed below.
+
+
+### Can only one developer of an company/organization become a patron?
+
+Yes, since the only point of (optional) enforcement is when an issue or PR is raised, an company/organization can ignore the honesty system and route all issues and PRs though a single GitHub user account. However if a single GitHub user account is drawing on significant time to support, they may be requested to purchase some [hourly support](https://opencollective.com/nservicebusextensions/order/7002).
+
+
+### What about open source projects that consume/extend these libraries?
+
+It is be expected that the core team of maintainers of any open source projects that consume/extend these libraries would become Patrons. Non core contributors do not need to become Patrons.
 
 
 ### Do I need a license to use these libraries at runtime in production or testing environments?
@@ -169,11 +187,6 @@ No license is required on production systems.
 ### Can I fork, re-use code, or start competing (possibly commercial) projects?
 
 Yes.
-
-
-### Do all developers in a company need to become Patrons?
-
-No. Only those coding against projects that directly, or indirectly, consume any of the NuGet packages listed below.
 
 
 ### What happens if I wrap one of these libraries in another library?
