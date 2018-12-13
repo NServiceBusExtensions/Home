@@ -33,6 +33,6 @@ class Program
         sync.AddTarget("NServiceBusExtensions", "NServiceBus.Utf8Json", "master");
         sync.AddTarget("NServiceBusExtensions", "NServiceBus.Wire", "master");
         sync.AddTarget("NServiceBusExtensions", "NServiceBus.ZeroFormatter", "master");
-        return sync.Sync();
+        return sync.Sync(SyncOutput.MergePullRequest);
     }
 }
