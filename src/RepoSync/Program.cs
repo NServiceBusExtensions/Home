@@ -13,7 +13,7 @@ class Program
         var sync = new RepoSync(credentials, "NServiceBusExtensions", "Home", "master", Console.WriteLine);
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/.editorconfig", ".editorconfig");
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/ISSUE_TEMPLATE/bug_report.md", ".github/ISSUE_TEMPLATE/bug_report.md");
-        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/ISSUE_TEMPLATE/feature_request.md", ".github/ISSUE_TEMPLATE/feature_request.md");
+        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/ISSUE_TEMPLATE/feature_proposal.md", ".github/ISSUE_TEMPLATE/feature_proposal.md");
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/pull_request_template.md", ".github/pull_request_template.md");
         sync.AddTarget("NServiceBusExtensions", "NServiceBus.Attachments", "master");
         sync.AddTarget("NServiceBusExtensions", "NServiceBus.AuditFilter", "master");
