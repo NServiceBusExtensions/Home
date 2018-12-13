@@ -1,6 +1,6 @@
 ---
 name: Feature proposal
-about: How to propose a new feature
+about: Propose a new feature
 ---
 
 Where it is clear that the below content has not read, the issue is likely to be closed with "please read the template". Please don't take offense at this. It is simply a time management decision. When someone raises an issue, without reading the template, then often too much time is spent going back and forth to obtain information that is outlined below.
