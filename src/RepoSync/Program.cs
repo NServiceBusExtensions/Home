@@ -10,29 +10,36 @@ class Program
         var githubToken = Environment.GetEnvironmentVariable("Octokit_OAuthToken");
 
         var credentials = new Credentials(githubToken);
-        var sync = new RepoSync(credentials, "NServiceBusExtensions", "Home", "master", Console.WriteLine);
-        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/.editorconfig", ".editorconfig");
-        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/ISSUE_TEMPLATE/bug_report.md", ".github/ISSUE_TEMPLATE/bug_report.md");
-        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/ISSUE_TEMPLATE/feature_proposal.md", ".github/ISSUE_TEMPLATE/feature_proposal.md");
-        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/pull_request_template.md", ".github/pull_request_template.md");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Attachments", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.AuditFilter", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Bond", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.MessagePack", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.HandlerOrdering", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Hyperion", "master");
-        sync.AddTarget("NServiceBusExtensions", "Newtonsoft.Json.Encryption", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Jil", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.MicrosoftLogging", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.MsgPack", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Native", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.ProtoBufGoogle", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.ProtoBufNet", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Validation", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Serilog", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Utf8Json", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.Wire", "master");
-        sync.AddTarget("NServiceBusExtensions", "NServiceBus.ZeroFormatter", "master");
+        var sync = new RepoSync(
+            log: Console.WriteLine,
+            defaultCredentials: credentials,
+            syncMode: SyncMode.ExcludeAllByDefault);
+
+        sync.AddSourceRepository(
+            owner: "NServiceBusExtensions",
+            repository: "Home",
+            branch: "master");
+
+        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/.editorconfig", "src/.editorconfig");
+        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/license.txt", "license.txt");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Attachments", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.AuditFilter", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Bond", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.MessagePack", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.HandlerOrdering", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Hyperion", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "Newtonsoft.Json.Encryption", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Jil", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.MicrosoftLogging", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.MsgPack", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Native", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.ProtoBufGoogle", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.ProtoBufNet", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Validation", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Serilog", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Utf8Json", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Wire", "master");
+        sync.AddTargetRepository("NServiceBusExtensions", "Verify.NServiceBus", "master");
         return sync.Sync(SyncOutput.MergePullRequest);
     }
 }
