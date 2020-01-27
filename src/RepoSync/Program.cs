@@ -22,6 +22,8 @@ class Program
 
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/.editorconfig", "src/.editorconfig");
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/license.txt", "license.txt");
+        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/workflows/on-push-do-doco.yml", ".github/workflows/on-push-do-doco.yml");
+        sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/workflows/on-tag-do-release.yml", ".github/workflows/on-tag-do-release.yml");
         sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Attachments", "master");
         sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.AuditFilter", "master");
         sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Bond", "master");
