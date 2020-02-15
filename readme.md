@@ -5,12 +5,12 @@
 
 ## Community backed
 
-**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/contribute/patron-6976) to use any of these libraries. [Go to licensing FAQ](https://github.com/NServiceBusExtensions/Home/#licensingpatron-faq)**
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/contribute/patron-6976) to use NServiceBusExtensions. [Go to licensing FAQ](https://github.com/NServiceBusExtensions/Home/#licensingpatron-faq)**
 
 
 ### Sponsors
 
-Support this project by [becoming a Sponsors](https://opencollective.com/nservicebusextensions/contribute/sponsor-6972). The company avatar will show up here with a link to your website. The avatar will also be added to all GitHub repositories under this organization.
+Support this project by [becoming a Sponsor](https://opencollective.com/nservicebusextensions/contribute/sponsor-6972). The company avatar will show up here with a website link. The avatar will also be added to all GitHub repositories under the [NServiceBusExtensions organization](https://github.com/NServiceBusExtensions).
 
 
 ### Patrons
@@ -19,13 +19,15 @@ Thanks to all the backing developers! Support this project by [becoming a patron
 
 <img src="https://opencollective.com/nservicebusextensions/tiers/patron.svg?width=890&avatarHeight=60&button=false">
 
+<a href="#" id="endofbacking"></a>
+
 <!--- EndOpenCollectiveBackers -->
 
 
 ## Licensing/Patron FAQ
 
 
-**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/order/6976) to use any of these libraries.**
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/contribute/patron-6976) to use any of these libraries.**
 
 
 ### Honesty System / Enforcement
@@ -78,7 +80,7 @@ Yes. You must be a Patron to be a user of the below NuGet packages. Contributing
 There are two options for an organization.
 
   1. Apply a multiplier to the Patron cost.
-    The [Patron tier](https://opencollective.com/nservicebusextensions/order/6976) has no upper bound on the monthly amount. This allows an organization with multiple developers to pay a single monthly price. For example: An organization with 5 developers would pay $25 per month, i.e. 5 x $5 per patron. An organization with 10 developers would pay $50 per month, i.e. 10 x $5 per patron and so on.
+    The [Patron tier](https://opencollective.com/nservicebusextensions/contribute/patron-6976) has no upper bound on the monthly amount. This allows an organization with multiple developers to pay a single monthly price. For example: An organization with 5 developers would pay $25 per month, i.e. 5 x $5 per patron. An organization with 10 developers would pay $50 per month, i.e. 10 x $5 per patron and so on.
   2. Create an Open Collective organization
     A organization can [Create an Open Collective organization](https://opencollective.com/become-a-sponsor) and then allow their developers to draw on the funds from that organization. See [FAQ for backers](https://opencollective.com/faq/backers). This is the recommended option as it also opens up the opportunity for developers to select other projects they feel need support.
 
@@ -90,7 +92,7 @@ No. Only those coding against projects that directly, or indirectly, consume any
 
 #### Can only one developer of an organization become a patron?
 
-Yes, since the only point of (optional) enforcement is when an issue or PR is raised, then legally an organization can ignore the honesty system and route all issues and PRs though a single GitHub user account. However if a single GitHub user account is drawing on significant time to support, they may be requested to purchase some [hourly support](https://opencollective.com/nservicebusextensions/order/7002).
+Yes, since the only point of (optional) enforcement is when an issue or PR is raised, then legally an organization can ignore the honesty system and route all issues and PRs though a single GitHub user account. However if a single GitHub user account is drawing on significant time to support, they may be requested to purchase some [hourly support](https://opencollective.com/nservicebusextensions/contribute/3-hours-support-7002).
 
 
 ### What about open source projects that consume/extend these libraries?
@@ -241,6 +243,16 @@ An implementation of the claim check pattern against SQL server.
 An implementation of the claim check pattern against a network file share.
 
 [NuGet](https://nuget.org/packages/NServiceBus.Attachments.FileShare/)
+
+
+## Testing
+
+
+### [Verify.NServiceBus](https://github.com/NServiceBusExtensions/Verify.NServiceBus)
+
+Adds [Verify](https://github.com/SimonCropp/Verify) support to verify [NServiceBus Test Contexts](https://docs.particular.net/nservicebus/samples/unit-testing/).
+
+[NuGet](https://www.nuget.org/packages/Verify.NServiceBus/)
 
 
 ## Misc
