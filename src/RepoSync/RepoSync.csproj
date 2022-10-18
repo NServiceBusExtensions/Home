@@ -4,6 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="GitHubSync" Version="0.8.0" />
+    <PackageReference Include="GitHubSync" Version="1.1.0" />
   </ItemGroup>
 </Project>
