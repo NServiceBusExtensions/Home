@@ -176,13 +176,6 @@ Add support for [message serialization](https://docs.particular.net/nservicebus/
 [NuGet](https://nuget.org/packages/NServiceBus.ProtoBufGoogle/)
 
 
-### [NServiceBus.Wire](https://github.com/NServiceBusExtensions/NServiceBus.Wire)
-
-Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Wire](https://github.com/rogeralsing/Wire).
-
-[NuGet](https://nuget.org/packages/NServiceBus.Wire/)
-
-
 ### [ZeroFormatter](https://github.com/NServiceBusExtensions/NServiceBus.ZeroFormatter)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [ZeroFormatter](https://github.com/neuecc/ZeroFormatter).
