@@ -141,25 +141,11 @@ Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://git
 ## Serializers
 
 
-### [Bond](https://github.com/NServiceBusExtensions/NServiceBus.Bond)
-
-Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Bond](https://microsoft.github.io/bond/manual/bond_cs.html).
-
-[NuGet](https://nuget.org/packages/NServiceBus.Bond/)
-
-
 ### [Hyperion](https://github.com/NServiceBusExtensions/NServiceBus.Hyperion)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
 
 [NuGet](https://nuget.org/packages/NServiceBus.Hyperion/)
-
-
-### [Jil](https://github.com/NServiceBusExtensions/NServiceBus.Jil)
-
-Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Jil](https://github.com/kevin-montrose/Jil).
-
-[NuGet](https://nuget.org/packages/NServiceBus.Jil/).
 
 
 ### [MsgPack](https://github.com/NServiceBusExtensions/NServiceBus.MsgPack)
@@ -188,13 +174,6 @@ Add support for [message serialization](https://docs.particular.net/nservicebus/
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/reference/csharp-generated).
 
 [NuGet](https://nuget.org/packages/NServiceBus.ProtoBufGoogle/)
-
-
-### [Utf8Json](https://github.com/NServiceBusExtensions/NServiceBus.Utf8Json)
-
-Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Utf8Json](https://github.com/neuecc/Utf8Json).
-
-[NuGet](https://nuget.org/packages/NServiceBus.Utf8Json/)
 
 
 ### [NServiceBus.Wire](https://github.com/NServiceBusExtensions/NServiceBus.Wire)
