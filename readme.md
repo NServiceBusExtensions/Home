@@ -148,13 +148,6 @@ Add support for [message serialization](https://docs.particular.net/nservicebus/
 [NuGet](https://nuget.org/packages/NServiceBus.Hyperion/)
 
 
-### [MsgPack](https://github.com/NServiceBusExtensions/NServiceBus.MsgPack)
-
-Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MsgPack](https://github.com/msgpack/msgpack-cli).
-
-[NuGet](https://nuget.org/packages/NServiceBus.MsgPack/)
-
-
 ### [MessagePack](https://github.com/NServiceBusExtensions/NServiceBus.MessagePack)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp).
