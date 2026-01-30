@@ -5,19 +5,19 @@
 
 ## Community backed
 
-**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/contribute/patron-6976) to use NServiceBusExtensions. [Go to licensing FAQ](https://github.com/NServiceBusExtensions/Home/#licensingpatron-faq)**
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebuscommunity/contribute/patron-6976) to use NServiceBus Community Extensions. [Go to licensing FAQ](https://github.com/NServiceBusCommunity/Home/#licensingpatron-faq)**
 
 
 ### Sponsors
 
-Support this project by [becoming a Sponsor](https://opencollective.com/nservicebusextensions/contribute/sponsor-6972). The company avatar will show up here with a website link. The avatar will also be added to all GitHub repositories under the [NServiceBusExtensions organization](https://github.com/NServiceBusExtensions).
+Support this project by [becoming a Sponsor](https://opencollective.com/nservicebuscommunity/contribute/sponsor-6972). The company avatar will show up here with a website link. The avatar will also be added to all GitHub repositories under the [NServiceBusCommunity organization](https://github.com/NServiceBusCommunity).
 
 
 ### Patrons
 
-Thanks to all the backing developers. Support this project by [becoming a patron](https://opencollective.com/nservicebusextensions/contribute/patron-6976).
+Thanks to all the backing developers. Support this project by [becoming a patron](https://opencollective.com/nservicebuscommunity/contribute/patron-6976).
 
-<img src="https://opencollective.com/nservicebusextensions/tiers/patron.svg?width=890&avatarHeight=60&button=false">
+<img src="https://opencollective.com/nservicebuscommunity/tiers/patron.svg?width=890&avatarHeight=60&button=false">
 
 <a href="#" id="endofbacking"></a>
 
@@ -27,7 +27,7 @@ Thanks to all the backing developers. Support this project by [becoming a patron
 ## Licensing/Patron FAQ
 
 
-**It is expected that all developers [become a Patron](https://opencollective.com/nservicebusextensions/contribute/patron-6976) to use any of these libraries.**
+**It is expected that all developers [become a Patron](https://opencollective.com/nservicebuscommunity/contribute/patron-6976) to use any of these libraries.**
 
 
 ### Honesty System / Enforcement
@@ -80,7 +80,7 @@ Yes. You must be a Patron to be a user of the below NuGet packages. Contributing
 There are two options for an organization.
 
   1. Apply a multiplier to the Patron cost.
-    The [Patron tier](https://opencollective.com/nservicebusextensions/contribute/patron-6976) has no upper bound on the monthly amount. This allows an organization with multiple developers to pay a single monthly price. For example: An organization with 5 developers would pay $25 per month, i.e. 5 x $5 per patron. An organization with 10 developers would pay $50 per month, i.e. 10 x $5 per patron and so on.
+    The [Patron tier](https://opencollective.com/nservicebuscommunity/contribute/patron-6976) has no upper bound on the monthly amount. This allows an organization with multiple developers to pay a single monthly price. For example: An organization with 5 developers would pay $25 per month, i.e. 5 x $5 per patron. An organization with 10 developers would pay $50 per month, i.e. 10 x $5 per patron and so on.
   2. Create an Open Collective organization
     A organization can [Create an Open Collective organization](https://opencollective.com/become-a-sponsor) and then allow their developers to draw on the funds from that organization. See [FAQ for backers](https://opencollective.com/faq/backers). This is the recommended option as it also opens up the opportunity for developers to select other projects they feel need support.
 
@@ -124,89 +124,89 @@ Consumers of that wrapper should also become Patrons.
 ## Logging
 
 
-### [Serilog](https://github.com/NServiceBusExtensions/NServiceBus.Serilog)
+### [Serilog](https://github.com/NServiceBusExtensions/NServiceBus.Community.Serilog)
 
 Add support for sending NServiceBus logging message through [Serilog](https://serilog.net/).
 
-[NuGet](https://nuget.org/packages/NServiceBus.Serilog/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.Serilog/)
 
 
-### [MicrosoftLogging](https://github.com/NServiceBusExtensions/NServiceBus.MicrosoftLogging)
+### [MicrosoftLogging](https://github.com/NServiceBusExtensions/NServiceBus.Community.MicrosoftLogging)
 
 Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://github.com/aspnet/Logging).
 
-[NuGet](https://nuget.org/packages/NServiceBus.MicrosoftLogging/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.MicrosoftLogging/)
 
 
 ## Serializers
 
 
-### [Hyperion](https://github.com/NServiceBusExtensions/NServiceBus.Hyperion)
+### [Hyperion](https://github.com/NServiceBusExtensions/NServiceBus.Community.Hyperion)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
 
-[NuGet](https://nuget.org/packages/NServiceBus.Hyperion/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.Hyperion/)
 
 
-### [MessagePack](https://github.com/NServiceBusExtensions/NServiceBus.MessagePack)
+### [MessagePack](https://github.com/NServiceBusExtensions/NServiceBus.Community.MessagePack)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp).
 
-[NuGet](https://nuget.org/packages/NServiceBus.MessagePack/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.MessagePack/)
 
 
-### [ProtoBufNet](https://github.com/NServiceBusExtensions/NServiceBus.ProtoBufNet)
+### [ProtoBufNet](https://github.com/NServiceBusExtensions/NServiceBus.Community.ProtoBufNet)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [ProtoBufNet](https://github.com/mgravell/protobuf-net).
 
-[NuGet](https://nuget.org/packages/NServiceBus.ProtoBuf/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.ProtoBuf/)
 
 
-### [ProtoBufGoogle](https://github.com/NServiceBusExtensions/NServiceBus.ProtoBufGoogle)
+### [ProtoBufGoogle](https://github.com/NServiceBusExtensions/NServiceBus.Community.ProtoBufGoogle)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/reference/csharp-generated).
 
-[NuGet](https://nuget.org/packages/NServiceBus.ProtoBufGoogle/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.ProtoBufGoogle/)
 
 
 ## Validation
 
 
-### [FluentValidation](https://github.com/NServiceBusExtensions/NServiceBus.Validation#nservicebusfluentvalidation)
+### [FluentValidation](https://github.com/NServiceBusExtensions/NServiceBus.Community.Validation#nservicebusfluentvalidation)
 
 Message validation using [FluentValidation](https://fluentvalidation.net/).
 
-[Nuget](https://nuget.org/packages/NServiceBus.FluentValidation/) 
+[Nuget](https://nuget.org/packages/NServiceBus.Community.FluentValidation/) 
 
 
-### [DataAnnotations](https://github.com/NServiceBusExtensions/NServiceBus.Validation#nservicebusdataannotations)
+### [DataAnnotations](https://github.com/NServiceBusCommunity/NServiceBus.Community.Validation#nservicebusdataannotations)
 
 Message validation using [DataAnnotations](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations).
 
-[NuGet](https://nuget.org/packages/NServiceBus.DataAnnotations/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.DataAnnotations/)
 
 
 ## Attachments
 
 
-### [Sql Attachments](https://github.com/NServiceBusExtensions/NServiceBus.Attachments#sql)
+### [Sql Attachments](https://github.com/NServiceBusCommunity/NServiceBus.Community.Attachments#sql)
 
 An implementation of the claim check pattern against SQL server.
 
-[NuGet](https://nuget.org/packages/NServiceBus.Attachments.Sql/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.Attachments.Sql/)
 
 
-### [FileShare Attachments](https://github.com/NServiceBusExtensions/NServiceBus.Attachments#FileShare)
+### [FileShare Attachments](https://github.com/NServiceBusCommunity/NServiceBus.Community.Attachments#FileShare)
 
 An implementation of the claim check pattern against a network file share.
 
-[NuGet](https://nuget.org/packages/NServiceBus.Attachments.FileShare/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.Attachments.FileShare/)
 
 
 ## Testing
 
 
-### [Verify.NServiceBus](https://github.com/NServiceBusExtensions/Verify.NServiceBus)
+### [Verify.NServiceBus](https://github.com/NServiceBusCommunity/Verify.NServiceBus)
 
 Adds [Verify](https://github.com/SimonCropp/Verify) support to verify [NServiceBus Test Contexts](https://docs.particular.net/nservicebus/samples/unit-testing/).
 
@@ -216,36 +216,29 @@ Adds [Verify](https://github.com/SimonCropp/Verify) support to verify [NServiceB
 ## Misc
 
 
-### [Sql Transport Native](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlservernative)
+### [Sql Transport Native](https://github.com/NServiceBusCommunity/NServiceBus.Community.Native#sqlservernative)
 
 SQL Server Transport Native is a shim providing low-level access to the [SQL Server Transport](https://docs.particular.net/transports/sql/) with no NServiceBus or SQL Server Transport reference required. 
 
-[NuGet](https://nuget.org/packages/NServiceBus.SqlServer.Native/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.SqlServer.Native/)
 
 
-### [Sql Transport HttpPassthrough](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlserverhttppassthrough)
+### [Sql Transport HttpPassthrough](https://github.com/NServiceBusCommunity/NServiceBus.Community.Native#sqlserverhttppassthrough)
 
-SQL HTTP Passthrough provides a bridge between an HTTP stream (via JavaScript on a web page) and the [SQL Server transport](https://docs.particular.net/transports/sql/). It leverages [SQL Transport - Native](https://github.com/NServiceBusExtensions/NServiceBus.Native#sqlservernative) and [SQL Attachments](https://github.com/NServiceBusExtensions/NServiceBus.Attachments).
+SQL HTTP Passthrough provides a bridge between an HTTP stream (via JavaScript on a web page) and the [SQL Server transport](https://docs.particular.net/transports/sql/). It leverages [SQL Transport - Native](https://github.com/NServiceBusCommunity/NServiceBus.Native#sqlservernative) and [SQL Attachments](https://github.com/NServiceBusCommunity/NServiceBus.Community.Attachments).
 
-[NuGet](https://nuget.org/packages/NServiceBus.SqlServer.HttpPassthrough/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.SqlServer.HttpPassthrough/)
 
 
-### [HandlerOrdering](https://github.com/NServiceBusExtensions/NServiceBus.HandlerOrdering)
+### [HandlerOrdering](https://github.com/NServiceBusCommunity/NServiceBus.Community.HandlerOrdering)
 
 Allows the dependency between handlers to be expressed via interfaces and the resulting order is derived at runtime.
 
-[NuGet](https://nuget.org/packages/NServiceBus.HandlerOrdering/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.HandlerOrdering/)
 
 
-### [AuditFilter](https://github.com/NServiceBusExtensions/NServiceBus.AuditFilter)
+### [AuditFilter](https://github.com/NServiceBusCommunity/NServiceBus.Community.AuditFilter)
 
 Selectively choose what message types should be sent to the [Audit queue](https://docs.particular.net/nservicebus/operations/auditing).
 
-[NuGet](https://nuget.org/packages/NServiceBus.AuditFilter/)
-
-
-### [Newtonsoft Message Property Encryption](https://github.com/NServiceBusExtensions/Newtonsoft.Json.Encryption#nservicebus)
-
-Leverages the Newtonsoft Json.net extension API to encrypt/decrypt specific parts of messages at serialization time.
-
-[NuGet](https://www.nuget.org/packages/NServiceBus.Newtonsoft.Encryption/)
+[NuGet](https://nuget.org/packages/NServiceBus.Community.AuditFilter/)
