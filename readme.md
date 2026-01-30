@@ -92,7 +92,7 @@ No. Only those coding against projects that directly, or indirectly, consume any
 
 #### Can only one developer of an organization become a patron?
 
-Yes, since the only point of (optional) enforcement is when an issue or PR is raised, then legally an organization can ignore the honesty system and route all issues and PRs though a single GitHub user account. However if a single GitHub user account is drawing on significant time to support, they may be requested to purchase some [hourly support](https://opencollective.com/nservicebusextensions/contribute/3-hours-support-7002).
+Yes, since the only point of (optional) enforcement is when an issue or PR is raised, then legally an organization can ignore the honesty system and route all issues and PRs though a single GitHub user account. However if a single GitHub user account is drawing on significant time to support, they may be requested to purchase some [hourly support](https://opencollective.com/nservicebuscommunity/contribute/3-hours-support-7002).
 
 
 ### What about open source projects that consume/extend these libraries?
@@ -124,14 +124,14 @@ Consumers of that wrapper should also become Patrons.
 ## Logging
 
 
-### [Serilog](https://github.com/NServiceBusExtensions/NServiceBus.Community.Serilog)
+### [Serilog](https://github.com/NServiceBusCommunity/NServiceBus.Community.Serilog)
 
 Add support for sending NServiceBus logging message through [Serilog](https://serilog.net/).
 
 [NuGet](https://nuget.org/packages/NServiceBus.Community.Serilog/)
 
 
-### [MicrosoftLogging](https://github.com/NServiceBusExtensions/NServiceBus.Community.MicrosoftLogging)
+### [MicrosoftLogging](https://github.com/NServiceBusCommunity/NServiceBus.Community.MicrosoftLogging)
 
 Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://github.com/aspnet/Logging).
 
@@ -141,28 +141,28 @@ Add support for NServiceBus to log to [Microsoft.Extensions.Logging](https://git
 ## Serializers
 
 
-### [Hyperion](https://github.com/NServiceBusExtensions/NServiceBus.Community.Hyperion)
+### [Hyperion](https://github.com/NServiceBusCommunity/NServiceBus.Community.Hyperion)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Hyperion](https://github.com/akkadotnet/Hyperion).
 
 [NuGet](https://nuget.org/packages/NServiceBus.Community.Hyperion/)
 
 
-### [MessagePack](https://github.com/NServiceBusExtensions/NServiceBus.Community.MessagePack)
+### [MessagePack](https://github.com/NServiceBusCommunity/NServiceBus.Community.MessagePack)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp).
 
 [NuGet](https://nuget.org/packages/NServiceBus.Community.MessagePack/)
 
 
-### [ProtoBufNet](https://github.com/NServiceBusExtensions/NServiceBus.Community.ProtoBufNet)
+### [ProtoBufNet](https://github.com/NServiceBusCommunity/NServiceBus.Community.ProtoBufNet)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [ProtoBufNet](https://github.com/mgravell/protobuf-net).
 
 [NuGet](https://nuget.org/packages/NServiceBus.Community.ProtoBuf/)
 
 
-### [ProtoBufGoogle](https://github.com/NServiceBusExtensions/NServiceBus.Community.ProtoBufGoogle)
+### [ProtoBufGoogle](https://github.com/NServiceBusCommunity/NServiceBus.Community.ProtoBufGoogle)
 
 Add support for [message serialization](https://docs.particular.net/nservicebus/serialization/) via [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/reference/csharp-generated).
 
@@ -172,7 +172,7 @@ Add support for [message serialization](https://docs.particular.net/nservicebus/
 ## Validation
 
 
-### [FluentValidation](https://github.com/NServiceBusExtensions/NServiceBus.Community.Validation#nservicebusfluentvalidation)
+### [FluentValidation](https://github.com/NServiceBusCommunity/NServiceBus.Community.Validation#nservicebusfluentvalidation)
 
 Message validation using [FluentValidation](https://fluentvalidation.net/).
 

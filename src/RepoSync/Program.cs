@@ -16,7 +16,7 @@ class Program
             syncMode: SyncMode.ExcludeAllByDefault);
 
         sync.AddSourceRepository(
-            owner: "NServiceBusExtensions",
+            owner: "NServiceBusCommunity",
             repository: "Home",
             branch: "master");
 
@@ -24,24 +24,24 @@ class Program
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/license.txt", "license.txt");
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/workflows/on-push-do-doco.yml", ".github/workflows/on-push-do-doco.yml");
         sync.AddSourceItem(TreeEntryTargetType.Blob, "src/RepoSync/Source/workflows/on-tag-do-release.yml", ".github/workflows/on-tag-do-release.yml");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Attachments", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.AuditFilter", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Bond", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.MessagePack", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.HandlerOrdering", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Hyperion", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "Newtonsoft.Json.Encryption", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Jil", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.MicrosoftLogging", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.MsgPack", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Native", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.ProtoBufGoogle", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.ProtoBufNet", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Validation", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Serilog", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Utf8Json", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "NServiceBus.Wire", "master");
-        sync.AddTargetRepository("NServiceBusExtensions", "Verify.NServiceBus", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Attachments", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.AuditFilter", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Bond", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.MessagePack", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.HandlerOrdering", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Hyperion", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "Newtonsoft.Json.Encryption", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Jil", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.MicrosoftLogging", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.MsgPack", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Native", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.ProtoBufGoogle", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.ProtoBufNet", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Validation", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Serilog", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Utf8Json", "master");
+        //sync.AddTargetRepository("NServiceBusCommunity", "NServiceBus.Wire", "master");
+        sync.AddTargetRepository("NServiceBusCommunity", "Verify.NServiceBus", "master");
         return sync.Sync(SyncOutput.MergePullRequest);
     }
 }
